@@ -1,2 +1,0 @@
-# angular-service
-Angular service
